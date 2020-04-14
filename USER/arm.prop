@@ -1,0 +1,20 @@
+# C/C++ Editor files
+# User keywords
+keywords6.$(file.patterns.cpp)=AT_CMD_TYPE ATCmdStatus CMD_INFO CMD_STATUS CMD_TYPE DISABLE ENABLE GPGGA NULL PARSED \
+RAW REC_BUF_CNT RECV_BUF RecvBufState RESET SET STATUS_TYPE TASK TASK_TYPE tsRUN \
+tsSTOP TX_CLOUD_DATA_TYPE USART_REC_LEN USART_RX_STA USART_TRS_MAX_LEN USART1 USART2 USART3 IS_GPRS_HEAD 
+
+
+
+# Asm Editor files
+# User keywords
+keywords6.$(file.patterns.asm)=
+
+
+
+# Editor Text files
+# User keywords
+keywords6.$(file.patterns.txt)=
+
+
+
